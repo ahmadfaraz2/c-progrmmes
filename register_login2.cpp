@@ -42,8 +42,10 @@ int main(){
     }
 
     if (reg_username == lgn_username && reg_password == lgn_password){
-        cout << "You are successfully loged in.";
+        cout << "You are successfully loged in." << endl;
     }
+
+    cout << "------------End of Programme---------------";
     
 
     return 0;
