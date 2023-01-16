@@ -9,10 +9,11 @@ int main(){
 
     cout << "Enter your name: ";
     cin >> name;
+	cout << "------Sum of two numbers--------"<< endl;
 
-    cout << "Enter a number: ";
+    cout << "Enter a first number: ";
     cin >> num1;
-    cout << "Enter a number: ";
+    cout << "Enter a second number: ";
     cin >> num2;
 
     cout << "Hi, " << name << " \n";
