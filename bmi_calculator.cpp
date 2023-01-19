@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 
-    float weight, height, bmi;
+    double weight, height, bmi;
 
     cout << "Enter you weight (in kg): ";
     cin >> weight;
