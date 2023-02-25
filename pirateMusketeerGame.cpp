@@ -12,7 +12,7 @@ int main(){
         << " along in the crime filled \n"
         << "city of Havana (in 1789)."
         << "How many of your pirate buddies \n"
-        << "do you bring along? (Any number between 11 and 115)\n";
+        << "do you bring along? (Any number between 11 and 115): ";
 
     //records the amount of friends you bring along
     cin >> buddies;
