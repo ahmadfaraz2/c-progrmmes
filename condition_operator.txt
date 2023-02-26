@@ -1,0 +1,20 @@
+The general syntax for conditional operator is as follows:
+   
+>>    condition ? expr1 : expr2
+
+
+Description:
+	If (condition) is true, the conditional operator evaluates to (expr1)
+	otherwise, it evaluates to (expr2).
+
+For Example:
+	int max = (b > a) ? b : a;
+	int min = (b < a) ? b : a;
+
+
+You cannot, for example, do the following:
+	(x > y) ? cout << "x is greater than y." : cout << "x isn't greater than y; //error
+
+	Keep in mind that (expr1) and (expr2) are expressions and not statements.
+
+
