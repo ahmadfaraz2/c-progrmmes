@@ -25,3 +25,11 @@ int main()
     }
     return 0;    
 }
+
+
+
+
+/*
+Your Task:
+    make some changes in this program like take input from user or ask user for which table he/she want to print.
+*/
