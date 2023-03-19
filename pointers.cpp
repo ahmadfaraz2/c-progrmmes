@@ -14,4 +14,11 @@ int main()
     cout << &varN << endl;
 
     return 0;
+
+
+
+    //Declairing pointers in c++
+
+    //int *ptr;
+
 }
